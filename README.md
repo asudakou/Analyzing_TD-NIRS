@@ -7,6 +7,6 @@ Data : 3 experiments involving blood and 2 experiments involving ink, in a two-l
 
 Codes: 
 
-First LMA algorithm does multi-layered curve-fitting of the DTOF for determining the absolute optical properties (and/or the thicknesses of layers).
+- First LMA algorithm does multi-layered curve-fitting of the DTOF for determining the absolute optical properties (and/or the thicknesses of layers).
 
-Second LMA algorithm uses the changes in moments to determine the changes in optical properties.
+- Second LMA algorithm uses the changes in moments to determine the changes in optical properties.
