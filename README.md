@@ -10,3 +10,7 @@ Codes:
 - First LMA algorithm does multi-layered curve-fitting of the DTOF for determining the absolute optical properties (and/or the thicknesses of layers).
 
 - Second LMA algorithm uses the changes in moments to determine the changes in optical properties.
+
+If you use the code (or the data) or find it helpful, please, cite: 
+
+"Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs"
