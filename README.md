@@ -13,7 +13,7 @@ If you use the code (or the data) or find it helpful, please cite:
 
 "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs"
 
-Contents: 
+FILES INSIDE THE SIX FOLDERS: 
 
 
 ![zzz1](https://github.com/asudakou/Analyzing_TD-NIRS/assets/133748951/22434a52-234f-4af6-9a2c-be5782d1cb89)
