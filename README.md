@@ -15,4 +15,5 @@ If you use the code (or the data) or find it helpful, please cite the above publ
 FILES INSIDE THE SIX FOLDERS: 
 
 
-![zzz1](https://github.com/asudakou/Analyzing_TD-NIRS/assets/133748951/22434a52-234f-4af6-9a2c-be5782d1cb89)
+
+![Content](https://github.com/asudakou/Analyzing_TD-NIRS/assets/133748951/eca4468b-ebfc-4587-afbe-1535e535d1ea)
