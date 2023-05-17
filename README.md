@@ -12,7 +12,8 @@ Data : 3 experiments involving blood and 2 experiments involving ink, in a two-l
 If you use the code (or the data) or find it helpful, please cite the above publication. 
 
 
-FILES INSIDE THE SIX FOLDERS: 
+
+ALL FILES INSIDE THE SIX FOLDERS: 
 
 
 
