@@ -9,9 +9,8 @@ Data : 3 experiments involving blood and 2 experiments involving ink, in a two-l
 
 - Second LMA algorithm uses the changes in moments to determine the changes in optical properties.
 
-If you use the code (or the data) or find it helpful, please cite: 
+If you use the code (or the data) or find it helpful, please cite the above publication. 
 
-"Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs"
 
 FILES INSIDE THE SIX FOLDERS: 
 
