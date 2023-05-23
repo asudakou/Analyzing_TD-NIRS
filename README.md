@@ -23,6 +23,6 @@ DOI:  https://doi.org/10.1117/1.3368682
 A. Liemert, and A. Kienle, "Application of the Laplace transform in time-domain optical spectroscopy and imaging," Journal of biomedical optics 20, 110502 (2015).
 DOI:  https://doi.org/10.1117/1.JBO.20.11.110502
 
-- If you use the code (or the data) or find it helpful, please cite the above publication(s). 
+- If you use the code or the data, or find it helpful, please cite the above publication(s). 
 
 ![Content](https://github.com/asudakou/Analyzing_TD-NIRS/assets/133748951/bab57d4d-333e-4b35-8c1f-25fb3e971cdf)
