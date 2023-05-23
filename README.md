@@ -20,4 +20,5 @@ ALL FILES INSIDE THE SIX FOLDERS:
 
 
 
-![Content](https://github.com/asudakou/Analyzing_TD-NIRS/assets/133748951/0af9cd27-e140-4561-8f76-4401f48aef98)
+
+![Content](https://github.com/asudakou/Analyzing_TD-NIRS/assets/133748951/eb1de394-c6bd-41e7-a964-530b67e58d7a)
