@@ -7,8 +7,7 @@ SEE THE DESCRIPTION INSIDE THE SCRIPT.
 DOWNLOADED FROM UNIVERSITY COLLEGE LONDON (UCL):
 https://www.ucl.ac.uk/medphys/research/borl/data/matcher94_nir_water_37.txt
 
-NOW THIS FILE CAN BE DOWNLOADED FROM THE FOLLOWING WEBSITE.
-I CONFIRMED THAT IT IS THE SAME FILE.
+NOW THIS FILE CAN BE DOWNLOADED FROM THE FOLLOWING WEBSITE:
 https://figshare.com/articles/dataset/Optical_Parametric_Oscilator_files/884511
 
 3) GetExtinctions.m
