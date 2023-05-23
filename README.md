@@ -4,6 +4,10 @@
 
 DOI  : 
 
+The first LMA algorithm does multi-layered curve-fitting of the DTOF for determining the absolute optical properties (and/or the thicknesses of layers)
+
+The second LMA algorithm uses the changes in moments to determine the changes in optical properties.
+
 - The moments-based method:
 
 A. Liebert, H. Wabnitz, J. Steinbrink, H. Obrig, M. Möller, R. Macdonald, A. Villringer, and H. Rinneberg, 
@@ -19,10 +23,6 @@ A. Liemert, and A. Kienle, "Application of the Laplace transform in time-domain 
 DOI:  https://doi.org/10.1117/1.JBO.20.11.110502
 
 Data : 3 experiments involving blood and 2 experiments involving ink, in a two-layered phantom, measured with a multi-wavelength TD-NIRS system
-
-- First LMA algorithm does multi-layered curve-fitting of the DTOF for determining the absolute optical properties (and/or the thicknesses of layers)
-
-- Second LMA algorithm uses the changes in moments to determine the changes in optical properties.
 
 If you use the code (or the data) or find it helpful, please cite the above publication. 
 
