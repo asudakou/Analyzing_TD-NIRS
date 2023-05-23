@@ -1,14 +1,15 @@
 # Analyzing_TD-NIRS
-Data and MATLAB scripts used for publication "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs"
+- The contents are Data and MATLAB scripts used for 2023 Publication:
+"Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs"
 
 DOI  : 
 
-The moments-based method for determining changes in optical properties was described in Publication:
+- The moments-based method:
 A. Liebert, H. Wabnitz, J. Steinbrink, H. Obrig, M. Möller, R. Macdonald, A. Villringer, and H. Rinneberg, 
 "Time-Resolved Multidistance Near-Infrared Spectroscopy of the Adult Head: Intracerebral and Extracerebral Absorption Changes from Moments of Distribution of Times of Flight of Photons," Appl. Opt. 43, 3037-3047 (2004).
 DOI:  https://doi.org/10.1364/AO.43.003037
 
-To generate DTOFs, we use the code presented in Publication:
+- For generating DTOFs:
 A. Liemert, and A. Kienle, "Light diffusion in N-layered turbid media: frequency and time domains," Journal of biomedical optics 15, 025002 (2010).
 DOI:  https://doi.org/10.1117/1.3368682
 
