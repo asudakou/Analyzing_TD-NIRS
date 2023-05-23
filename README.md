@@ -25,4 +25,5 @@ A. Liemert and A. Kienle.  "Application of the Laplace transform in time-domain 
 - The code and data can be used and modified, provided the original source is clearly stated, following the GNU General Public License v3.0
 
 
-![Content](https://github.com/asudakou/Analyzing_TD-NIRS/assets/133748951/d6b6381b-7130-4c34-b016-5c2ad46833d3)
+
+![Content](https://github.com/asudakou/Analyzing_TD-NIRS/assets/133748951/044257a5-68e9-4ec4-9411-a7fb489dce3a)
