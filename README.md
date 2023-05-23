@@ -22,7 +22,7 @@ A. Liemert and A. Kienle.  "Light diffusion in N-layered turbid media: frequency
 A. Liemert and A. Kienle.  "Application of the Laplace transform in time-domain optical spectroscopy and imaging," Journal of biomedical optics 20, 110502 (2015).  DOI:  https://doi.org/10.1117/1.JBO.20.11.110502
 
 - If you use the code or the data, or find it helpful, please cite the above publication(s)
-- The code and data can be used and modified, provided the original source is clearly stated, following the GNU General Public License v3.0
+- The code and data can be used and modified, provided the original source is clearly acknowledged, following the GNU General Public License v3.0
 
 
 
