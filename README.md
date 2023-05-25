@@ -7,9 +7,7 @@ The 2nd LMA algorithm uses the changes in moments to determine the changes in op
 
 The data includes 3 experiments involving blood and 2 experiments involving ink, in a new two-layered phantom, measured with a multi-wavelength TD-NIRS system.
 
-- [1]: The Publication in 2023
-
-A. Sudakou, H. Wabnitz, A. Liemert, M. Wolf, and A. Liebert.  "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs".  DOI  : 
+- [1]  A. Sudakou, H. Wabnitz, A. Liemert, M. Wolf, and A. Liebert.  "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs".  DOI  : 
 
 - The moments-based method:
 
