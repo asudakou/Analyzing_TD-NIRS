@@ -1,9 +1,9 @@
 # Analyzing_TD-NIRS
-- The contents are Data and MATLAB scripts used for 2023 Publication.
+The contents are Data and MATLAB scripts used for 2023 Publication.
 
-The first LMA algorithm does multi-layered curve-fitting of the DTOF for determining the absolute optical properties (and/or the thicknesses of layers).
+The 1st LMA algorithm does multi-layered curve-fitting of the DTOF for determining the absolute optical properties (and/or the thicknesses of layers).
 
-The second LMA algorithm uses the changes in moments to determine the changes in optical properties (and/or the thicknesses of layers).
+The 2nd LMA algorithm uses the changes in moments to determine the changes in optical properties (and/or the thicknesses of layers).
 
 The data includes 3 experiments involving blood and 2 experiments involving ink, in a two-layered phantom, measured with a multi-wavelength TD-NIRS system.
 
