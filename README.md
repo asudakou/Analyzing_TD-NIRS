@@ -9,7 +9,7 @@ The data includes 3 experiments involving blood and 2 experiments involving ink,
 
 - [1]  A. Sudakou, H. Wabnitz, A. Liemert, M. Wolf, and A. Liebert.  "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs".  DOI  : 
 
-| The moments-based method:
+- The moments-based method:
 
 A. Liebert, H. Wabnitz, J. Steinbrink, H. Obrig, M. Möller, R. Macdonald, A. Villringer, and H. Rinneberg.  "Time-Resolved Multidistance Near-Infrared Spectroscopy of the Adult Head: Intracerebral and Extracerebral Absorption Changes from Moments of Distribution of Times of Flight of Photons," Appl. Opt. 43, 3037-3047 (2004).  DOI:  https://doi.org/10.1364/AO.43.003037
 
