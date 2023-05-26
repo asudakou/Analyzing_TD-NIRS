@@ -1,5 +1,5 @@
 # Analyzing_TD-NIRS
-The contents are Data and MATLAB scripts used for Publication in 2023:
+- The contents are Data and MATLAB scripts used for Publication in 2023:
 
 > A. Sudakou, H. Wabnitz, A. Liemert, M. Wolf, and A. Liebert.  "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs".  DOI  : 
 
