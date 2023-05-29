@@ -9,6 +9,8 @@
 
 **The data** includes 3 experiments involving blood and 2 experiments involving ink, in a new two-layered phantom, measured with a multi-wavelength TD-NIRS system.
 
+To use the codes and data, download all into one folder, add this folder to MATLAB path, and lastly in files 'Ink_main.m' and 'Blood_main.m' set variable 'folder_calc' to the path of a folder where the calculated data will be stored (some calculations can take days). 
+
 - The moments-based method:
 
 > A. Liebert, H. Wabnitz, J. Steinbrink, H. Obrig, M. Möller, R. Macdonald, A. Villringer, and H. Rinneberg.  "Time-Resolved Multidistance Near-Infrared Spectroscopy of the Adult Head: Intracerebral and Extracerebral Absorption Changes from Moments of Distribution of Times of Flight of Photons," Appl. Opt. 43, 3037-3047 (2004).  DOI:  https://doi.org/10.1364/AO.43.003037
