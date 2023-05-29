@@ -9,7 +9,7 @@
 
 **The data** includes 3 experiments involving blood and 2 experiments involving ink, in a new two-layered phantom, measured with a multi-wavelength TD-NIRS system.
 
-To use the codes and data, download all into one folder, add this folder to MATLAB path, and lastly in files 'Ink_main.m' and 'Blood_main.m' set variable 'folder_calc' to the path of a folder where the calculated data will be stored (some calculations can take days). 
+To use the codes and data, download all into one folder, add this folder to MATLAB path, and lastly, in files 'Ink_main.m' and 'Blood_main.m' set variable 'folder_calc' to the path of a folder where the calculated data will be stored (some calculations can take days). 
 
 - The moments-based method:
 
