@@ -1,5 +1,5 @@
 # Analyzing_TD-NIRS
-- The contents are Data and MATLAB scripts used for Publication in 2023:
+- The contents are Data and MATLAB scripts used for Publication in 2023. Please see file "Content.png"
 
 > A. Sudakou, H. Wabnitz, A. Liemert, M. Wolf, and A. Liebert.  "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs".  DOI  : 
 
@@ -10,6 +10,8 @@
 **The data** includes 3 experiments involving blood and 2 experiments involving ink, in a new two-layered phantom, measured with a multi-wavelength TD-NIRS system.
 
 To use the codes and data, download all into one folder, add this folder to MATLAB path, and lastly, in files 'Ink_main.m' and 'Blood_main.m' set variable 'folder_calc' to the path of a folder where the calculated data will be stored (some calculations can take days). 
+
+For backup, these files are saved on Google folder: https://drive.google.com/drive/folders/14ckJFZtuB_6qBHPFUp8uAxJ785Oq4XRf?usp=sharing 
 
 - The moments-based method:
 
