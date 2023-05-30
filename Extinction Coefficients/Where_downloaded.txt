@@ -1,0 +1,22 @@
+1) DTOF_generate_Liemert.m
+
+SEE THE DESCRIPTION INSIDE THE SCRIPT.
+
+2) matcher94_nir_water_37.txt
+
+DOWNLOADED FROM UNIVERSITY COLLEGE LONDON (UCL):
+https://www.ucl.ac.uk/medphys/research/borl/data/matcher94_nir_water_37.txt
+
+NOW THIS FILE CAN BE DOWNLOADED FROM THE FOLLOWING WEBSITE:
+https://figshare.com/articles/dataset/Optical_Parametric_Oscilator_files/884511
+
+3) GetExtinctions.m
+
+DOWNLOADED FROM: https://github.com/xjpvincent/FC_NIRS/blob/master/GetExtinctions.m
+PLEASE SEE :     https://github.com/xjpvincent
+
+4) plotyyy.m
+
+DOWNLOADED FROM: https://www.mathworks.com/matlabcentral/fileexchange/1017-plotyyy
+
+
