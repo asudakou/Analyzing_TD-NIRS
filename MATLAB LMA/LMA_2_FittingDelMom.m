@@ -394,7 +394,7 @@ try
 catch ME
    opt_prop_found = nan(size(initial_guess));
    Resid = nan(1);
-   disp([char(datetime('now','Format','HH:mm:ss')) '  WARNING: LMA function terminated, output result is set to NaN.' newline() 'Error: ' ME.message])
+   disp([char(datetime('now','Format','HH:mm:ss')) '  WARNING: LMA 2 function terminated, output result is set to NaN.' newline() 'Error: ' ME.message])
 end
 
 end
