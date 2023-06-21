@@ -1,7 +1,7 @@
 # Analyzing_TD-NIRS
 - The contents are Data and MATLAB scripts used for Publication in 2023. Please see file "Content.png"
 
-> A. Sudakou, H. Wabnitz, A. Liemert, M. Wolf, and A. Liebert.  "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs".  DOI  : 
+> A. Sudakou, H. Wabnitz, A. Liemert, M. Wolf, and A. Liebert.  "Two-layered blood-lipid phantom and method to determine absorption and oxygenation employing changes in moments of DTOFs".  DOI  : https://doi.org/10.1364/BOE.492168 
 
 **The 1st LMA** does multi-layered curve-fitting of the DTOF for determining the absolute optical properties (and/or the thicknesses of layers).
 
