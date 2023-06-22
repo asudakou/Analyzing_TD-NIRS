@@ -438,9 +438,11 @@ for j_chan = which_chan
             set(gca,'FontSize',24)
         
             xlim([0.0497 0.24])
+            xlim([0.0488 0.24])
             set(gca,'XTick',[0.05:0.05:0.24 0.24])
         
             ylim([0.0497 0.24])
+            ylim([0.0488 0.24])
             set(gca,'YTick',[0.05:0.05:0.2, 0.24])
         
             title(['Spectral channel : ' num2str(round(wavelengths(j_chan))) ' nm'])
