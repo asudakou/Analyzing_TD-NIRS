@@ -196,13 +196,15 @@ if cut_how > 0
         % Cut
         if cut_ind(1) >= 1 && cut_ind(1) <= length(dtof)
             dtof(1:cut_ind(1)) = 0;
+            cut_ind(1) = cut_ind(1)+1; % For outputting which indices remain for the DTOF
         end
         if cut_ind(2) >= 1 && cut_ind(2) <= length(dtof)
             dtof(cut_ind(2):end) = 0;
+            cut_ind(2) = cut_ind(2)-1; % For outputting which indices remain for the DTOF
         end
 
-        cut_ind(1) = cut_ind(1)+1; % For outputting which indices remain for the DTOF
-        cut_ind(2) = cut_ind(2)-1;
+        if cut_ind(1) == -1; cut_ind(1) = 1; end
+        if cut_ind(2) == -1; cut_ind(2) = length(dtof); end
     end
 end
 
