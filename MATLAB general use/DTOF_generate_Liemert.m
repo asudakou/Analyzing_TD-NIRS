@@ -37,6 +37,9 @@ if do_this == 1
 %     semilogy(time_ns, R) % Simple way of plotting DTOF
     [~, ~] = DTOF_filter( R_example, time_ns_example, 0, 0, 0, 0, {5,'red'}); % Better way of plotting DTOF
     clear OptProp_all_example R_example time_ns_example;
+
+
+    
 end
 
 
@@ -51,6 +54,21 @@ end
 % 
 % * varargin    :  irf_shifted (Optional). The generated DTOF will be convolved with this IRF
 % irf_shifted   :  Photon counts of IRF, which must correspond to the same time channels as "time_s", otherwise need another code for convolution
+
+
+% See: LMA_1_RearrangeInput.m
+if isequal(OptProp_all(2), -1) % Mua2
+    OptProp_all(2) = OptProp_all(1);
+end
+if isequal(OptProp_all(3), -1) % Mua3
+    OptProp_all(3) = OptProp_all(2);
+end
+if isequal(OptProp_all(5), -1) % Musp2
+    OptProp_all(5) = OptProp_all(4);
+end
+if isequal(OptProp_all(6), -1) % Musp3
+    OptProp_all(6) = OptProp_all(5);
+end
 
 
 mua1 = OptProp_all(1); % Absorption and Scattering of 3 layers  [mm-1]
